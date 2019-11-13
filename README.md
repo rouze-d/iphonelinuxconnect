@@ -30,3 +30,8 @@ ifuse /media/iPhone/
 ```
 
 Now open file manager and you can access or transfer your media file (video, photo, audio record..) on ipohne to linux.
+
+next time just connect iPhone on you linuxcomputer with USB and run:
+```
+sudo bash i-connect.sh
+```
